@@ -1,3 +1,6 @@
 [submodule "cloud-data"]
 	path = cloud-data
 	url = https://github.com/diegonmarcos/cloud-data.git
+[submodule "0_hub/z-archived-___"]
+	path = 0_hub/z-archived-___
+	url = https://github.com/diegonmarcos/z-archived-___.git
