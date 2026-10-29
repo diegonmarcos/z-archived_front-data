@@ -1,0 +1,86 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "z-archived_front-data",
+  "label": "z-archived_front-data",
+  "code": "8.1.2.1",
+  "kind": "repo",
+  "variant": "archived",
+  "description": "Auto-synced front-end monorepo data (topology, deps) — updated by Dagu",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/z-archived_front-data",
+  "developer": "Z-archived",
+  "farm": "8.Archived",
+  "breadcrumb": [
+    {
+      "code": "8",
+      "kind": "area",
+      "label": "Archived",
+      "icon": "📦"
+    },
+    {
+      "code": "8.1",
+      "kind": "project",
+      "label": "Z-archived",
+      "icon": "📦"
+    },
+    {
+      "code": "8.1.2",
+      "kind": "family",
+      "label": "Front",
+      "icon": ""
+    }
+  ],
+  "hub": {
+    "name": "z-archived-___",
+    "code": "8.0",
+    "url": "https://github.com/diegonmarcos/z-archived-___"
+  },
+  "base_dir": "git",
+  "members": [],
+  "tree": [
+    "├── .claude/",
+    "│   ├── agents/",
+    "│   ├── hooks/",
+    "│   │   └── c3/",
+    "│   └── skills/",
+    "│       └── c3-infra/",
+    "├── .githooks/",
+    "├── .github/",
+    "│   └── workflows/",
+    "├── .obsidian/",
+    "├── .vscode/",
+    "├── 0_apps/",
+    "│   ├── dist/",
+    "│   │   └── dotfiles/",
+    "│   └── src/",
+    "│       ├── claude/",
+    "│       ├── obsidian/",
+    "│       ├── root/",
+    "│       └── vscode/",
+    "├── 0_git/",
+    "│   ├── dist/",
+    "│   │   └── hooks/",
+    "│   └── src/",
+    "│       └── hooks/",
+    "├── 0_hub/",
+    "│   └── z-archived-___ (submodule)",
+    "├── 1_cicd/",
+    "│   └── src/",
+    "│       └── scripts/",
+    "├── 1_workflows/",
+    "│   ├── dist/",
+    "│   │   └── hooks/",
+    "│   └── src/",
+    "│       └── hooks/",
+    "├── 9_others/",
+    "│   ├── src/",
+    "│   └── test/",
+    "├── a0_docs/",
+    "└── a0_tasks/"
+  ],
+  "old_names": [
+    "front-data"
+  ],
+  "history": "Front-end content and data. Renamed z-archived_front-data 2026-10-23; to be archived on GitHub (owner click)."
+}
